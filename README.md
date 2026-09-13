@@ -42,14 +42,11 @@ RESTful API untuk platform rekrutmen kerja dibangun dengan Node.js, Express, dan
    ```bash
    npm run migrate
    ```
-5. **Jalankan server**
+6. **Jalankan server**
    ```bash
   npm run start:dev
    ```
-5. **Akses **
-   ```bash
-   (http://localhost:3000)
-   ```
+7. **Akses:http://localhost:3000 **
 ## Author
 Revi Febrianti
 GitHub: revifbrnti 
