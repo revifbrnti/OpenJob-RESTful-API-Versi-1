@@ -2,7 +2,7 @@
 
 RESTful API untuk platform rekrutmen kerja dibangun dengan Node.js, Express, dan PostgreSQL.
 
-## ⭐ Fitur Utama
+## Fitur Utama
 
 - **Database Management**:PostgreSQL + `node-pg-migrate`
 - **Authentication & Authorization**:JWT (access + refresh token)
@@ -11,7 +11,7 @@ RESTful API untuk platform rekrutmen kerja dibangun dengan Node.js, Express, dan
 - **Search Jobs**:Query param `?title` & `?company-name`
 - **Bookmark & Application Tracking**
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Node.js v22
 - Express.js
@@ -21,7 +21,7 @@ RESTful API untuk platform rekrutmen kerja dibangun dengan Node.js, Express, dan
 - JSON Web Token (JWT)
 - bcrypt
 
-## 🚀 Cara Menjalankan
+## Cara Menjalankan
 
 1. **Clone repository**
    ```bash
